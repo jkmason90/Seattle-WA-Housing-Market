@@ -7,3 +7,4 @@ I hypothesized that the houses with the better grade, condition, view, the numbe
 Once data was analysis, I saw that the variable with the largest correlation was square foot of living space. The others did not have that great of an impact. 
 
 Data Source: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction 
+https://public.tableau.com/app/profile/jourdan3012/viz/SeattleWAHouseSales/Story1?publish=yes
